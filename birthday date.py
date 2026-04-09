@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Priya = ("4/2/2013")
 Vedant = ("11/5/2014")
 Shamik = ("7/8/2013")
@@ -7,4 +8,15 @@ print("birthday date of harihunt",Harihant)
 print("birthday date of vedant",Ravneet)
 print("birthday date of vedant",Vedant)
 print("birthday date of vedant",Shamik)
+=======
+Priya = ("4/2/2013")
+Vedant = ("11/5/2014")
+Shamik = ("7/8/2013")
+Ravneet = ("5/12/2014")
+Harihant = ("6/2/2014")
+print("birthday date of harihunt",Harihant)
+print("birthday date of vedant",Ravneet)
+print("birthday date of vedant",Vedant)
+print("birthday date of vedant",Shamik)
+>>>>>>> c79e145413a6d6d0dfba182c887b996550c64710
 print("birthday date of vedant",Priya)
