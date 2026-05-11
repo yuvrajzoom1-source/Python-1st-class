@@ -1,3 +1,3 @@
 def anything(yuvraj = ""):
-    print("hi, im yuvraj")
+    print("y=g")
 anything()
