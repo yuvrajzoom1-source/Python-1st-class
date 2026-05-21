@@ -13,7 +13,8 @@ while playing:
         print("the number was",number)
         break
 
-else:
-    print("Your guess isn't quite right, try again. \n")
+    else:
+        print("Your guess isn't quite right, try again. \n")
 
+  
       
