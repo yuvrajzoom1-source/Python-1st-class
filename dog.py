@@ -13,6 +13,7 @@ class Dog:
         print("Animal :", Dog.animal)
         print("Breed  :", self.breed)
         print("Name   :", self.name)
+        
         print()
 
 dog1 = Dog("Labrador", "Bruno")
