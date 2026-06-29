@@ -13,7 +13,5 @@ class WordReverser:
 
         return " ".join(reversed_words)
 
-
-# Example usage:
 reverser = WordReverser()
 print(reverser.reverse_words("hello world python"))
